@@ -19,7 +19,7 @@ body {
 #hero img {
   width: 348px;
   height: 270px;
-  margin-bottom: 72px;
+  margin: 8px auto 50px;
 }
 
 /* texts of hero */
